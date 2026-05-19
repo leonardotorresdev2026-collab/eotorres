@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/hnP8FWI5fB4AAAAC/itachi-uchiha.gif" width="100%" />
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100%" />
 
 <br>
 

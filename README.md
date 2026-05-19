@@ -1,48 +1,11 @@
-<!-- HEADER -->
-<h1 align="center">⚡ Olá, eu sou [Seu Nome]</h1>
-
 <p align="center">
-  Desenvolvedor em evolução • Foco em backend e front-end • Sempre aprendendo
-</p>
-
----
-
-## 🧠 Sobre mim
-
-- 💻 Estudando programação e construindo projetos
-- ⚡ Foco em evolução constante
-- 🎯 Objetivo: me tornar um dev sólido e criativo
-- 🌊 Gosto de designs limpos e minimalistas
-
----
-
-## ⚙️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a192f&height=180&section=header&text=Leotorres&fontSize=40&fontColor=00AEEF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&center=true&vCenter=true&width=400&lines=Leotorres" />
 </p>
-
----
-
-## 🌐 Contato
 
 <p align="center">
-  <a href="https://instagram.com/SEU_INSTAGRAM">Instagram</a> •
-  <a href="mailto:SEU_EMAIL">Email</a>
+  Dev • Programador
 </p>
-
----
-
-<p align="center">⚡ “Calmo por fora, elétrico por dentro.”</p>

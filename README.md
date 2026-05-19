@@ -6,7 +6,7 @@
 
 <br>
 
-> “Real strength is forged in silence.”
+
 
 <br>
 

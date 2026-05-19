@@ -4,12 +4,11 @@
 
 <img src="https://i.pinimg.com/originals/39/e7/6d/39e76d4f5bb0f5c4bb5e5b0a1d7d3f0d.gif" width="100%" />
 
-# ⚫ Leonardo Torres ⚫
+# ⚫ leo ⚫
 
 > “People live their lives bound by what they accept as correct and true.”
 
-💻 Java Developer  
-☕ Backend Engineer  
+💻 Java Developer   
 ⚡ Software Developer  
 🌑 Building powerful systems in silence
 
